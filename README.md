@@ -9,7 +9,7 @@ This is a Python implementation of the classic Connect Four game with additional
 
 - **Standard Connect Four Gameplay**: Two players take turns to drop pieces into the grid.
 - **Bombs**: Each player has 2 bombs to clear a column of pieces.
-- **Proximity Bombs**: Each player has 2 proximity bombs to clear adjacent cells.
+- **Proximity Bombs**:For beginner and moderate each player has 0 proximity bombs for hard level each player has 2 to clear adjacent cells.
 - **AI Opponent**: The game features an AI opponent with three difficulty levels:
   - Beginner
   - Moderate
