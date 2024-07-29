@@ -1,5 +1,5 @@
 
-# **Connect Four with Bombs and AI**
+# **4-in-a-row-EXTREME**
 
 ## **Description**
 
