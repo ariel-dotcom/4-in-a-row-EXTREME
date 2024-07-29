@@ -29,7 +29,7 @@ This is a Python implementation of the classic Connect Four game with additional
 
 1. Run the game script:
    ```sh
-   python main.py
+   python connect_four_with_bombs.py
    ```
 2. A window will pop up asking you to select the difficulty level.
 3. Select the difficulty level:
